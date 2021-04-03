@@ -2,4 +2,4 @@
 - 👀 I’m interested in HTML, CSS, JS, and PHP
 - 🌱 I’m currently learning to improve my knowledge in front end
 - 💞️ I’m looking to collaborate on html, css and js.
-- 📫 How to reach me odararepresentacoes@outlook.com.br, phone number 55 21 999666462 and https://www.facebook.com/ariel.sardinha.5
+- 📫 How to reach me odararepresentacoes@outlook.com.br and https://www.facebook.com/ariel.sardinha.5
