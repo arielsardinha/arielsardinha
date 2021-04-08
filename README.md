@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arielsardinha
-- 👀 I’m interested in HTML, CSS, JS, and PHP
+- 👀 I’m interested in HTML, CSS, JS, and bootstrap
 - 🌱 I’m currently learning to improve my knowledge in front end
 - 💞️ I’m looking to collaborate on html, css and js.
 - 📫 How to reach me odararepresentacoes@outlook.com.br and https://www.facebook.com/ariel.sardinha.5
