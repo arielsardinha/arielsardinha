@@ -10,7 +10,7 @@
    <img alt="Ariel-JavaScript" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">       
    <img alt="Ariel-Bootstrap" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
    <img alt="Ariel-PHP" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="width:50px;"> 
-   <img alt="Ariel-VS-Code" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg">        
+   <img alt="Ariel-VS-Code" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">        
    <img alt="Ariel-GitHub" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsardinha)](https://github.com/arielsardinha/github-readme-stats)
