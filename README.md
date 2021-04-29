@@ -5,7 +5,7 @@
 - 📫 How to reach me on email odararepresentacoes@outlook.com.br and linkedin https://www.linkedin.com/in/ariel-sardinha-08a6401b9/
 -
 - <h1>My Skils<h1>
-   <img alt="Ariel-HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="width:50px;" >       
+   <img alt="Ariel-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css" style="width:50px;" >       
    <img alt="Ariel-Css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="width:50px;">    
    <img alt="Ariel-JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="width:50px;">       
    <img alt="Ariel-Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="width:50px;">
