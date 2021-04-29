@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, JS, and bootstrap
 - 🌱 I’m currently learning to improve my knowledge in front end
 - 💞️ I’m looking to collaborate on html, css and js.
-- 📫 How to reach me on email odararepresentacoes@outlook.com.br and linkedin https://www.linkedin.com/in/ariel-sardinha-08a6401b9/
+- 📫 How to reach me on email odararepresentacoes@outlook.com.br and linkedin <a href="https://www.linkedin.com/in/ariel-sardinha-08a6401b9/" target="_blank"> <img alt="Ariel-HTML" align="center" height="50" width="60" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"> </a> https://www.linkedin.com/in/ariel-sardinha-08a6401b9/
 -
 - <h1>My Skils<h1>
    <img alt="Ariel-HTML" align="center" height="50" width="60" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">       
