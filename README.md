@@ -14,6 +14,7 @@
    <img alt="Ariel-VUE" align="center" height="50" width="60" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
    <img alt="Ariel-SCSS" align="center" height="50" width="60" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
    <img alt="Ariel-Bootstrap" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+       <img alt="Ariel-Material-UI" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
    <br>
    <h4>extra tools<h4>
    <img alt="Ariel-VS-Code" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">        
