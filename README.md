@@ -9,6 +9,7 @@
    <img alt="Ariel-Css" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">    
    <img alt="Ariel-JavaScript" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
    <img alt="Ariel-REACT" align="center" height="50" width="60" style="max-width:100%;" src="https://image.flaticon.com/icons/png/128/1126/1126012.png">
+   <img alt="Ariel-VUE" align="center" height="50" width="60" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
    <img alt="Ariel-TYPESCRIPT" align="center" height="50" width="60" style="max-width:100%;" src="https://image.flaticon.com/icons/png/128/919/919832.png">
    <img alt="Ariel-Bootstrap" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
    <img alt="Ariel-PHP" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="width:50px;"> 
