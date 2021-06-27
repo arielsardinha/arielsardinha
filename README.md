@@ -21,6 +21,6 @@
    <img alt="Ariel-GIMP" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
    <img alt="Ariel-Figma" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsardinha)](https://github.com/arielsardinha/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsardinha)](https://github.com/arielsardinha/github-readme-stats)
    
 
