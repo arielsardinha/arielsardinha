@@ -15,7 +15,7 @@
    <img alt="Ariel-SCSS" align="center" height="50" width="60" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
    <img alt="Ariel-Bootstrap" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
    <br>
-    - <h4>ferramentas extra<h4>
+   <h4>ferramentas extra<h4>
    <img alt="Ariel-VS-Code" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">        
    <img alt="Ariel-GitHub" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
    <img alt="Ariel-GIMP" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
