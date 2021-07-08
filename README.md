@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arielsardinha
 - 🌱 I’m currently learning to improve my knowledge in front end
-- 📫 How to reach me on email odararepresentacoes@outlook.com.br and linkedin <a href="https://www.linkedin.com/in/ariel-sardinha-08a6401b9/" target="_blank"> <img alt="Ariel-Linkedin" align="center" height="50" width="60" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> </a>
+- 📫 How to reach me on email odararepresentacoes@outlook.com.br and linkedin <a href="https://www.linkedin.com/in/ariel-sardinha" target="_blank"> <img alt="Ariel-Linkedin" align="center" height="50" width="60" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> </a>
 - <h1>My Skils
    <h4>Programming languages<h4>
    <img alt="Ariel-HTML" align="center" height="50" width="60" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">       
