@@ -1,14 +1,16 @@
 - 👋 Hi, I’m @arielsardinha
-- 🌱 I’m currently learning to improve my knowledge in front end
 - 📫 How to reach me on email odararepresentacoes@outlook.com.br and linkedin <a href="https://www.linkedin.com/in/ariel-sardinha" target="_blank"> <img alt="Ariel-Linkedin" align="center" height="50" width="60" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> </a>
 - <h1>My Skils
    <h4>Programming languages<h4>
+   <h5>Front-End</h5>
    <img alt="Ariel-HTML" align="center" height="50" width="60" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">       
    <img alt="Ariel-Css" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">    
    <img alt="Ariel-JavaScript" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img alt="Ariel-TYPESCRIPT" align="center" height="50" width="60" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <h5>Back-End<h5>
    <img alt="Ariel-PHP" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="width:50px;">
-   <br>
+   <h5>Mbile</h5>
+   <br>      
     <h4>Framework<h4>
    <img alt="Ariel-REACT" align="center" height="50" width="60" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
    <img alt="Ariel-VUE" align="center" height="50" width="60" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
