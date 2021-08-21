@@ -20,7 +20,7 @@
      <br>
   <h6>Framework<h6>
      <img alt="Ariel-Flutter" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width:50px;">
-     <img alt="Ariel-React-Native" align="center" height="50" width="60" style="max-width:100%;"  src="https://th.bing.com/th/id/R.d6555cbcf676dc7e1b572a67f417b23f?rik=lqYSPHPoCC9MGA&pid=ImgRaw&r=0" style="width:50px;">
+     <img alt="Ariel-React-Native" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width:50px;">
       <br>
   <h3>Programming languages Back-End<h3>
    <img alt="Ariel-PHP" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="width:50px;">
