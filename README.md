@@ -15,12 +15,18 @@
          <img alt="Ariel-Bootstrap" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
          <img alt="Ariel-Material-UI" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
       <br>
+  <h3>Programming languages Mobile<h3>
+     <img alt="Ariel-Dart" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" style="width:50px;">
+     <br>
+  <h6>Framework<h6>
+     <img alt="Ariel-Flutter" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width:50px;">
+     <img alt="Ariel-React-Native" align="center" height="50" width="60" style="max-width:100%;"  src="https://th.bing.com/th/id/R.34398aeda8411c4b69af64121a4d4729?rik=AcmkWc82%2fal1%2bw&pid=ImgRaw&r=0" style="width:50px;">
+      <br>
   <h3>Programming languages Back-End<h3>
    <img alt="Ariel-PHP" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="width:50px;">
        <br>
       <h6>Framework<h6>
       <img alt="Ariel-Laravel" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="width:50px;">
-   <h5>Mbile</h5>
    <br>      
    <h4>extra tools<h4>
    <img alt="Ariel-VS-Code" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">        
