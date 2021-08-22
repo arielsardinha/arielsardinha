@@ -8,7 +8,6 @@
          <img alt="Ariel-Css" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">    
          <img alt="Ariel-JavaScript" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
          <img alt="Ariel-TYPESCRIPT" align="center" height="50" width="60" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-      <h6>Framework<h6>
          <img alt="Ariel-REACT" align="center" height="50" width="60" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
          <img alt="Ariel-VUE" align="center" height="50" width="60" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
          <img alt="Ariel-SCSS" align="center" height="50" width="60" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
@@ -18,14 +17,12 @@
          
   <h3>Programming languages Mobile<h3>
      <img alt="Ariel-Dart" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="width:50px;">
-  <h6>Framework<h6>
      <img alt="Ariel-Flutter" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width:50px;">
      <img alt="Ariel-React-Native" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width:50px;">
      
      
   <h3>Programming languages Back-End<h3>
   <img alt="Ariel-PHP" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="width:50px;">
-  <h6>Framework<h6>
   <img alt="Ariel-Laravel" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="width:50px;">    
      
      
