@@ -33,6 +33,6 @@
    <img alt="Ariel-GitHub" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
    <img alt="Ariel-GIMP" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
    <img alt="Ariel-Figma" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-
+![Snake animation](https://github.com/arielsardinha/arielsardinha/blob/output/github-contribution-grid-snake.svg)
    
 
