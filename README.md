@@ -36,9 +36,12 @@
 ![Snake animation](https://github.com/arielsardinha/arielsardinha/blob/output/github-contribution-grid-snake.svg)
    
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/arielsardinha/e-diarista-web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielsardinha&repo=e-diarista-web&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/arielsardinha/e-diarista-mobile">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielsardinha&repo=e-diarista-mobile&theme=dark" />
+</a>
+<a href="https://github.com/arielsardinha/e-diarista-laravel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielsardinha&repo=e-diarista-laravel&theme=dark" />
 </a>
