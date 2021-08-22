@@ -31,6 +31,6 @@
    <img alt="Ariel-GIMP" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
    <img alt="Ariel-Figma" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
    <img alt="Ariel-Inkscape" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsardinha&layout=compact&langs_count=10&hide=blade,shell,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsardinha&layout=compact&langs_count=10&hide=blade,shell,html,swift,objective-c)
 ![Snake animation](https://github.com/arielsardinha/arielsardinha/blob/output/github-contribution-grid-snake.svg)
    
