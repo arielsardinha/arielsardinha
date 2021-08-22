@@ -33,4 +33,13 @@
    <img alt="Ariel-Inkscape" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsardinha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Snake animation](https://github.com/arielsardinha/arielsardinha/blob/output/github-contribution-grid-snake.svg)
+<a href="https://github.com/arielsardinha/e-diarista-web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielsardinha&repo=e-diarista-web&theme=dark" />
+</a>
+<a href="https://github.com/arielsardinha/e-diarista-mobile">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielsardinha&repo=e-diarista-mobile&theme=dark" />
+</a>
+<a href="https://github.com/arielsardinha/e-diarista-laravel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arielsardinha&repo=e-diarista-laravel&theme=dark" />
+</a>
    
