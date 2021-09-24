@@ -15,14 +15,12 @@
          
          
   <h3>Programming languages Mobile<h3>
-     <img alt="Ariel-Dart" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="width:50px;">
-     <img alt="Ariel-Flutter" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width:50px;">
      <img alt="Ariel-React-Native" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width:50px;">
      
      
   <h3>Programming languages Back-End<h3>
-  <img alt="Ariel-PHP" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="width:50px;">
-  <img alt="Ariel-Laravel" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="width:50px;">    
+  <img alt="Ariel-NODE" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:50px;">
+  <img alt="Ariel-Express" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="width:50px;">    
      
      
    <h4>extra tools<h4>
