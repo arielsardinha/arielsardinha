@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @arielsardinha
-- 📫 How to reach me on email odararepresentacoes@outlook.com.br and linkedin <a href="https://www.linkedin.com/in/ariel-sardinha" target="_blank"> <img alt="Ariel-Linkedin" align="center" height="50" width="60" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> </a>
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 - <h1>My Skils
    <h3>Programming languages Front-End<h3>
