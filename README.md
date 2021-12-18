@@ -14,7 +14,8 @@
          
          
   <h3>Programming languages Mobile<h3>
-     <img alt="Ariel-React-Native" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width:50px;">
+     <img alt="Ariel-Dart" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="width:50px;">
+      <img alt="Ariel-Kotlin" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="width:50px;">
      <img alt="Ariel-Flutter" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width:50px;">
      
      
