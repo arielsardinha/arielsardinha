@@ -21,7 +21,7 @@
    <h3>Back-End<h3>
       <div>
          <img alt="Ariel-Nest" align="center"  height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="width:50px;">
-         NestJS
+        <p>NestJS</p> 
       </div>
  
      
