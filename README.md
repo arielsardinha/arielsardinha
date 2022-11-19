@@ -1,7 +1,7 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 - <h1>My Skils
-   <h3>Programming languages Front-End<h3>
+   <h3>Front-End<h3>
          <img alt="Ariel-HTML" align="center" height="50" width="60" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">       
          <img alt="Ariel-Css" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">    
          <img alt="Ariel-JavaScript" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -13,10 +13,13 @@
          <img alt="Ariel-Material-UI" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
          
          
-  <h3>Programming languages Mobile<h3>
+  <h3>Mobile<h3>
      <img alt="Ariel-Dart" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="width:50px;">
       <img alt="Ariel-Kotlin" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="width:50px;">
      <img alt="Ariel-Flutter" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width:50px;">
+     
+   <h3>Back-End<h3>
+     <img alt="Ariel-Nest" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" style="width:50px;">
      
      
    <h4>extra tools<h4>
