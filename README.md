@@ -19,7 +19,7 @@
      <img alt="Ariel-Flutter" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width:50px;">
      
    <h3>Back-End<h3>
-     <img alt="Ariel-Nest" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" style="width:50px;">
+     <img alt="Ariel-Nest" align="center" height="100" width="140" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" style="width:50px;">
      
      
    <h4>extra tools<h4>
