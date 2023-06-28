@@ -15,18 +15,9 @@
          
   <h3>Mobile<h3>
      <img alt="Ariel-Dart" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="width:50px;">
-      <img alt="Ariel-Kotlin" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="width:50px;">
      <img alt="Ariel-Flutter" align="center" height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="width:50px;">
      
-   <h3>Back-End<h3>
-      <div>
-         <img alt="Ariel-Nest" align="center"  height="50" width="60" style="max-width:100%;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="width:50px;">
-        <p>NestJS</p> 
-      </div>
  
-     
-     
-     
    <h4>extra tools<h4>
    <img alt="Ariel-VS-Code" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">        
    <img alt="Ariel-GitHub" align="center" height="50" width="60" style="max-width:100%;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
